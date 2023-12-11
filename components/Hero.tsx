@@ -35,9 +35,9 @@ const Hero = () => {
             </span>
           )}
         </h1>
-        <span className="font-light text-lg sm:text-2xl text-black">
+        {/* <span className="font-light text-lg sm:text-2xl text-black">
           {config.contents.description}
-        </span>
+        </span> */}
         <Form />
       </div>
       <Image

@@ -11,7 +11,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: config.title,
-  description: config.description,
+  // description: config.description,
 };
 
 export default function RootLayout({
