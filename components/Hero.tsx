@@ -41,7 +41,7 @@ const Hero = () => {
         <Form />
       </div>
       <Image
-        src="/hero.jpg"
+        src="/sfsky.JPG"
         alt="hero"
         width={648}
         height={500}

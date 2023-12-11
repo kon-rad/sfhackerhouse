@@ -1,21 +1,20 @@
 const config = {
-    domain: "theproduct.com",
-    title: "Waitlist Page | The Product",
-    description: "The product, goal, sector",
-    subscribeForm: "https://dashboard.mailerlite.com/forms/631411/101265918935434456/share",
+  domain: "sfhackerhouse.com",
+  title: "Waitlist Page | SF Hacker House",
+  description: "List of all hacker houses and co-living communities in SF",
+  subscribeForm:
+    "https://dashboard.mailerlite.com/forms/727497/107250643192776084/share",
 
-    socials: {
-        twitter: "https://x.com/beratbozkurt0",
-    },
+  //   socials: {
+  //     twitter: "https://x.com/beratbozkurt0",
+  //   },
 
-    contents: {
-        title: "Discover Your Ideal Experience with The Product",
-        markOfTitle: "The Product", // its for marking the title. The text must contain on title. If not, it will be ignored.
-        description: `Step into a realm of possibilities with The Product. Immerse yourself
-        in a shopping journey where intuitive features and cutting-edge design
-        come together to enhance your every selection.`,
-    }
-}
-
+  contents: {
+    title:
+      "List of all hacker houses and co-living communities in San Francisco",
+    markOfTitle: "SFHackerHouse.com", // its for marking the title. The text must contain on title. If not, it will be ignored.
+    // description: `Find the best communtiy and hacker houses in San Francisco`,
+  },
+};
 
 export default config;
